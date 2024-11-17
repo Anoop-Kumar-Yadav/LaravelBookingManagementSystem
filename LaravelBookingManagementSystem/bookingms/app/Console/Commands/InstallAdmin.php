@@ -29,8 +29,8 @@ class InstallAdmin extends Command
     public function handle()
     {
         $user = new User([
-            'name'=>'BMS Admin',
-            'email'=>'bms@yopmail.com',
+            'name'=>'admin',
+            'email'=>'admin@gmail.com',
             'phone_no'=>'9679845679',
             'password'=>Hash::make('secret'),
             'user_type'=>1
