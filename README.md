@@ -11,6 +11,7 @@
 * Move to Directory of the project : C:\xampp\htdocs\LaravelBookingManagementSystem\bookingms 
 * Open this Folder with vs code
 * open terminal and type and PRESS enter: php artisan migrate
+* * open terminal and type and PRESS enter: php artisan serve
 * open browser again and open URL : localhost:8000/
 
 ## ScreenShots
